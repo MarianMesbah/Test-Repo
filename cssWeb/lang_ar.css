@@ -1,0 +1,1117 @@
+.font-name-diwan-nasikhImg {
+	/*content: "ديوان نسخ";/*"ديوان نسخ"*/
+	content:url('../img/fonts/naskh.png');
+}
+.font-name-mishafi-goldImg {
+	/*content: "مصحفي الذهبي";"مصحفي الذهبي"*/
+	content:url('../img/fonts/gold.png');
+}
+.font-name-mishafi-silverImg {
+	/*content: "مصحفي الفضي";"مصحفي الفضي";*/
+	content:url('../img/fonts/silver.png');
+}
+.font-name-diwan-thuluthImg {
+	/*content: "ديوان ثلث";"ديوان ثلث";*/
+	content:url('../img/fonts/thulth.png');
+}
+.font-name-diwan-farsiImg {
+	/*content: "ديوان فارسي";"ديوان فارسي";*/
+	content:url('../img/fonts/farsi.png');
+}
+.font-name-boulaqImg {
+	/*content: "بولاق";"بولاق";*/
+	content:url('../img/fonts/bolaq.png');
+}
+.font-name-damascusImg {
+	/*content: "دمشق";"دمشق";*/
+	content:url('../img/fonts/damscus.png');
+}
+.font-name-damascusLightImg {
+	/*content: "دمشق";"دمشق";*/
+	content:url('../img/fonts/damascuslight.png');
+}
+.font-name-farahImg {
+	/*content: "فرح";"فرح";*/
+	content:url('../img/fonts/farah.png');
+}
+.font-name-munaImg {
+	/*content: "منى";"منى";*/
+	content:url('../img/fonts/muna.png');
+}
+.font-name-munaboldImg {
+	/*content: "منى";"منى";*/
+	content:url('../img/fonts/munabold.png');
+}
+.font-name-sanaImg {
+	/*content: "صنعاء";"صنعاء";*/
+	content:url('../img/fonts/sana.png');
+}
+.font-name-waseemImg {
+	/*content: "وسيم";"وسيم";*/
+	content:url('../img/fonts/waseem.png');
+}
+.font-name-waseem-lightImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/waseemlight.png');
+}
+.font-name-algiers-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/waseemlight.png');
+}
+/*Start*/
+.font-name-algiers-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/algiers.png');
+}
+.font-name-arabtimes-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/arabtimes.png');
+}
+.font-name-basma-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/basma.png');
+}
+.font-name-beirut-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/beirut.png');
+}
+.font-name-damascus-boldImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/damascusbold.png');
+}
+.font-name-kufiImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/kufi.png');
+}
+.font-name-kufi-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/kufiStandered.png');
+}
+.font-name-munablack-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/munablack.png');
+}
+.font-name-baghdad-regularImg {
+	/*content: "وسيم رفيع";"وسيم رفيع";*/
+	content:url('../img/fonts/baghdad.png');
+}
+/*End*/
+.font-name-arial:before {
+	content: "Arial";
+}
+.font-name-DancingScript:before {
+	content: "Dancing Script";
+}
+.font-name-open-sans:before {
+	content: "Open Sans";
+}
+.font-name-open-Lobster:before {
+	content: "Lobster";
+}
+.font-name-open-Nunito:before {
+	content: "Nunito";
+}
+.font-name-open-Pacifico:before {
+	content: "Pacifico";
+}
+.font-name-open-Pathway:before {
+	content: "Pathway Gothic One ";
+}
+.font-name-open-Philosopher:before {
+	content: "Philosopher";
+}
+.font-name-open-PoiretOne:before {
+	content: "Poiret One";
+}
+.font-name-open-Vollkorn:before {
+	content: "Vollkorn";
+}
+.font-size-8:before {
+	content: "8";
+}
+.font-size-12:before {
+	content: "12";
+}
+.font-size-16:before {
+	content: "16";
+}
+.font-size-20:before {
+	content: "20";
+}
+.font-size-24:before {
+	content: "24";
+}
+.font-size-28:before {
+	content: "28";
+}
+.font-size-32:before {
+	content: "32";
+}
+.font-size-36:before {
+	content: "36";
+}
+.font-size-40:before {
+	content: "40";
+}
+.font-size-44:before {
+	content: "44";
+}
+.font-size-48:before {
+	content: "48";
+}
+.font-size-60:before {
+	content: "60";
+}
+.font-size-72:before {
+	content: "72";
+}
+.font-size-84:before {
+	content: "84";
+}
+.font-size-96:before {
+	content: "96";
+}
+.font-size-124:before {
+	content: "124";
+}
+.font-size-148:before {
+	content: "148";
+}
+.font-size-196:before {
+	content: "196";
+}
+.font-size-224:before {
+	content: "224";
+}
+.font-size-248:before {
+	content: "248";
+}
+.font-size-296:before {
+	content: "296";
+}
+.font-size-324:before {
+	content: "324";
+}
+.font-size-348:before {
+	content: "348";
+}
+.font-size-396:before {
+	content: "396";
+}
+.font-size-424:before {
+	content: "424";
+}
+/* ------ */
+.stroke-width-1:before {
+	content: "1";
+}
+.stroke-width-4:before {
+	content: "4";
+}
+.stroke-width-8:before {
+	content: "8";
+}
+.stroke-width-12:before {
+	content: "12";
+}
+.stroke-width-16:before {
+	content: "16";
+}
+.stroke-width-20:before {
+	content: "20";
+}
+/* object Prop dialog*/
+.object-prop-dialog-text-box-title:before {
+	content: "مواصفات كتلة النص";
+}
+.object-prop-dialog-rect-title:before {
+	content: "مواصفات المستطيل";
+}
+.object-prop-dialog-circle-title:before {
+	content: "مواصفات الدائرة";
+}
+.object-prop-dialog-left:before {
+	content: "يسار";
+}
+.object-prop-dialog-top:before {
+	content: "أعلى";
+}
+.object-prop-dialog-width:before {
+	content: "عرض";
+}
+.object-prop-dialog-height:before {
+	content: "إرتفاع";
+}
+.object-prop-dialog-fill-opacity:before {
+	content: "الشفافية";
+}
+/*------*/
+.button-ok:before {
+	content: "موافق";
+}
+.button-close:before {
+	content: "إغلاق";
+}
+.button-cancel:before {
+	content: "إلغاء";
+}
+.button-no:before {
+	content: "لا";
+}
+.button-yes:before {
+	content: "نعم";
+}
+
+/* template dialog */
+.dialog-title-templates:before{
+	content: "تصاميم جاهزة";
+}
+/* border dialog */
+.dialog-title-borders:before{
+	content: "إطارات مزخرفة";
+}
+.dialog-border-fit-to-width:before{
+	content:"ضبط حسب عرض اللوحة";
+}
+.dialog-border-fit-to-height:before{
+	content:"ضبط حسب إرتفاع اللوحة";
+}
+.dialog-border-thickness:before{
+	content:"سمك الاطار";
+}
+.dialog-border-thickness-thin:before{
+	content:"نحيف";
+}
+.dialog-border-thickness-normal:before{
+	content:"متوسط";
+}
+.dialog-border-thickness-Thick:before{
+	content:"عريض";
+}
+.dialog-border-color:before{
+	content:"خيارات الالوان";
+}
+.dialog-border-color-1:before{
+	content:"لون 1";
+}
+.dialog-border-color-2:before{
+	content:"لون 2";
+}
+.dialog-border-color-3:before{
+	content:"لون 3";
+}
+.dialog-border-no-border:before{
+	content:"بدون إطار";
+}
+.dialog-border-name-a021:before{
+	content:"بغداد"
+}
+.dialog-border-name-a006:before{
+	content:"أرابيسك"
+}
+.dialog-border-name-a012:before{
+	content:"موزاييك"
+}
+.dialog-border-name-r011:before{
+	content:"سيراميك"
+}
+.dialog-border-name-A024ThinA:before{
+	content:"تراث"
+}
+
+.dialog-border-name-A010ThinA:before{
+	content:"الماس"
+}
+.dialog-border-name-A016ThinA:before{
+	content:"سوار"
+}
+.dialog-border-name-A018ThinA:before{
+	content:"ثلجية"
+}
+.dialog-border-name-A020ThinA:before{
+	content:"خمائل"
+}
+.dialog-border-name-A021ThinA:before{
+	content:"أمواج"
+}
+.dialog-border-name-A007ThinA:before{
+	content:"كرز"
+}
+.dialog-border-name-A027ThinA:before{
+	content:"زنابق"
+}
+.dialog-border-name-R008ThinC:before{
+	content:"أزهار"
+}
+.dialog-border-name-R008ThinD:before{
+	content:"إكليل"
+}
+.dialog-border-name-R012ThinA:before{
+	content:"تيجان"
+}
+.dialog-border-name-A006ThinA:before{
+	content:"أغصان"
+}
+.dialog-border-name-R008ThinB:before{
+	content:"الربيع"
+}
+.dialog-border-name-A029ThinA:before{
+	content:"الصيف"
+}
+.dialog-border-name-R013ThinB:before{
+	content:"الخريف"
+}
+.dialog-border-name-R012ThinB:before{
+	content:"الشتاء"
+}
+
+/* quran search dialog */
+.dialog-title-quran-search:before{
+	content: "بحث في النص القرآني";
+}
+.dialog-quran-search:before{
+	content: "بحث";
+}
+.dialog-quran-search-result:before{
+	content: "نتائج البحث";
+}
+.dialog-quran-search-insert:before{
+	content: "إضافة الآية";
+}
+/* page setting dialog */
+.dialog-title-page-setting:before{
+	content: "أعدادات اللوحة";
+}
+.dialog-page-setting-width:before{
+	content: "عرض اللوحة";
+}
+.dialog-page-setting-height:before{
+	content: "إرتفاع اللوحة";
+}
+.dialog-page-setting-pixel:before{
+	content: "نقطة";
+}
+.dialog-page-setting-linespacing:before{
+	content: "المسافة بين السطور";
+}
+.dialog-page-setting-precent:before{
+	content: "% من حجم الخط";
+}
+.dialog-page-setting-margin:before{
+	content: "المسافة من الحافة";
+	padding-left:5px;
+	padding-right:5px;
+}
+.dialog-page-setting-top:before{
+	content: "أعلى";
+}
+.dialog-page-setting-left:before{
+	content: "يسار";
+}
+.dialog-page-setting-bottom:before{
+	content: "أسفل";
+}
+.dialog-page-setting-right:before{
+	content: "يمين";
+}
+.dialog-page-setting-bkg-color:before{
+	content: "لون الخلفية";
+}
+.dialog-page-setting-tb-border:before{
+	content: "إظهار حدود كتلة النص";
+}
+.dialog-page-setting-uilang:before{
+	content: "اللغة";
+}
+/* bkg image dialog */
+.dialog-title-bkgimage:before{
+	content: "خيارات صورة الخلفية";
+}
+.dialog-bkgimage-fit-image-to-page:before{
+	content: "تحجيم الصورة نسبة للصفحة";
+}
+.dialog-bkgimage-fit-page-to-image:before{
+	content: "تحجيم الصفحة نسبة للصورة";
+}
+.dialog-bkgimage-keep-image-size:before{
+	content: "المحافظة على حجم الصورة";
+}
+.dialog-bkgimage-aspect-ratio:before{
+	content: "المحافظة على نسبة ابعاد الصورة";
+}
+.dialog-bkgimage-vert-align:before{
+	content: "محاذاة الصورة عموديا";
+}
+.dialog-bkgimage-horz-align:before{
+	content: "محاذاة الصورة أفقيا";
+}
+.dialog-bkgimage-align-right:before{
+	content: "يمين";
+}
+.dialog-bkgimage-align-center:before{
+	content: "وسط";
+}
+.dialog-bkgimage-align-left:before{
+	content: "يسار";
+}
+.dialog-bkgimage-align-top:before{
+	content: "اعلى";
+}
+.dialog-bkgimage-align-bottom:before{
+	content: "أسفل";
+}
+.dialog-bkgimage-delete:before{
+	content: "حذف الصورة";
+}
+.dialog-bkgimage-browse:before{
+	content: "تصفح";
+}
+/* share dialog */
+.dialog-title-share:before{
+	content: "مشاركة";
+}
+.dialog-share-only-me:before{
+	content: "أنا فقط";
+}
+.dialog-share-friends:before{
+	content: "الأصدقاء";
+}
+.dialog-share-friends-of-friends:before{
+	content: "اصدقاء الأصدقاء";
+}
+.dialog-share-public:before{
+	content: "العامة";
+}
+.dialog-share-share:before{
+	content: "شارك";
+}
+.dialog-share-add-comment:before{
+	content: "اضف تعليق للصورة";
+}
+.dialog-share-post-restriction:before{
+content:"* قد يعتمد النشر على الفيسبوك على إعدادات الخصوصية الخاصة بالتطبيق";
+font-size:12px;
+}
+/* confitm dialog*/
+.dialog-title-warning:before{
+	content: "تحذير";
+}
+.dialog-title-alert:before{
+	content: "تنبيه";
+}
+.dialog-confirm-msg-new-doc:before{
+	content: "سيتم مسح التصميم الحالي. هل ترغب بالإستمرار؟";
+}
+.dialog-confirm-msg-open-tempalte:before{
+	content: "";
+}
+.dialog-confirm-msg-no-internet:before{
+content:"لا يوجد إتصال بالأنترنت. يرجى المحاولة لاحقا.";
+}
+.dialog-confirm-msg-page-width:before{
+	content: "عرض اللوحة يجب أن يكون بين 200-1024.";
+}
+.dialog-confirm-msg-page-height:before{
+	content: "إرتفاع اللوحة يجب أن يكون بين 200-1024.";
+}
+.dialog-confirm-msg-add-permission:before{
+	content: "الرجاء السماح للتطبيق بالنشر على الفيسبوك";
+}
+.dialog-confirm-msg-fb-error:before{
+	content: "حدث خطأ في الاتصال بالفيسبوك.";
+}
+.dialog-confirm-msg-max-ayas:before{
+	content: "لا يمكن اضافة اكثر من عشر آيات في وقت واحد.";
+}
+.dialog-confirm-msg-general-error:before{
+	content: "حدث خطأ، يرجى المحاولة مرة أخرى.";
+}
+.dialog-confirm-msg-bkgimg-resize:before{
+	content: "لا يمكن تحجيم الصفحة نسبة للصورة مع وجود إطار.";
+}
+.dialog-confirm-msg-bkgimg-small:before{
+
+content: "حجم الصورة صغير جدا، لا يمكن تحجيم الصفحة نسبة للصورة.";
+
+}
+.dialog-confirm-msg-select-result:before{
+	content: "الرجاء إختيار آية من نتيجة البحث.";
+}
+.dialog-confirm-msg-select-template:before{
+	content: "الرجاء إختيار تصميم.";
+}
+.dialog-confirm-msg-load-img-error:before{
+	content: "حدث خطأ في تحميل الصورة.";
+}
+.dialog-confirm-msg-connection_error:before{
+	content: "يجب الإتصال بالأنترنت لعرض التصاميم الجاهزة.";
+}
+.dialog-confirm-msg-template-error:before{
+	content: "لايمكن فتح التصميم، لايوجد إتصال بالأنترنت.";
+}
+.dialog-confirm-msg-no-instagram:before{
+	content: "تطبيق إنستغرام غير موجود.";
+}
+.dialog-confirm-msg-invalid-value:before{
+	content: "القيم المدخلة غير مقبولة.";
+}
+.dialog-confirm-msg-invalid-opacity:before{
+	content: "قيمة الشفافية يجب ان تكون بين (0-100).";
+}
+.template-viewer-title-text:before{
+content:"تصاميم جاهزة";
+}
+.template-viewer-title{
+font-size:18px;
+font-weight:bold;
+}
+.quran-tools-from:before{
+	content: "من";
+}
+.quran-tools-to:before{
+	content: "الى";
+}
+.quran-tools-inset-aya:before{
+	content: "إضافة الآية";
+}
+.select-all:before{
+	content:"إختيار الكل";
+}
+.page-setting:before{
+	content:"إعدادات الصفحة";
+}
+.switch-lang:before{
+	content:"Switch To English UI";
+	font-size:14px;
+}
+.template-status:before{
+	content:"الوصول للتصاميم الجاهزة يتطلب الاتصال بالانترنت"
+}
+.layers-bring-forward:before{
+	content:"إحضار خطوة للأمام";
+}
+.layers-bring-to-front:before{
+	content:"إحضار للمقدمة";
+}
+.layers-send-backward:before{
+	content:"إرجاع خطوة للخلف";
+}
+.layers-send-to-back:before{
+	content:"إرجاع للمؤخرة";
+}
+/*------*/
+.edit-copy:before{
+	content:"نسخ";
+}
+.edit-paste:before{
+	content:"لصق";
+}
+.edit-delete:before{
+	content:"حذف";
+}
+.help-icon{
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+}
+span{
+	font-size:16px;
+}
+.direction{
+	direction:rtl;
+}
+.text-alignment{
+	text-align:right;
+}
+.align-td-leftEn-RightAr{
+	text-align:right;
+}
+.align-td-leftAr-RightEn{
+	text-align:left;
+}
+#browse{
+	margin-right:210px;
+}
+#bkgImgDelete{
+	margin-right:30px;
+}
+#shareDlgTd{
+padding-left: 50px;	
+}
+#confirmMsg{
+padding-left: 35px;
+}
+.text-tools-div{
+	margin-left:0px;
+	margin-right:30px;
+}
+
+.fill-style-btn{
+	border-top-right-radius:4px;
+	border-bottom-right-radius:4px;	
+}
+.fill-style-btn.selected{
+ background-color: #50b5c6;
+}
+.outline-style-btn{
+	border-top-left-radius:4px;
+	border-bottom-left-radius:4px;
+}
+.outline-style-btn.selected{
+ background-color: #50b5c6;
+}
+.fill-color:before{
+	content:"حشو";
+}
+.outline-clr:before{
+	content:"إطار";
+}
+.sora-1:before{content:"1- الفاتحة";}
+.sora-2:before{content:"2- البقرة";}
+.sora-3:before{content:"3- آل عمران";}
+.sora-4:before{content:"4- النساء";}
+.sora-5:before{content:"5- المائدة";}
+.sora-6:before{content:"6- الأنعام";}
+.sora-7:before{content:"7- الأعراف";}
+.sora-8:before{content:"8- الأنفال";}
+.sora-9:before{content:"9- التوبة";}
+.sora-10:before{content:"10- يونس";}
+.sora-11:before{content:"11- هود";}
+.sora-12:before{content:"12- يوسف";}
+.sora-13:before{content:"13- الرعد";}
+.sora-14:before{content:"14- إبراهيم";}
+.sora-15:before{content:"15- الحجر";}
+.sora-16:before{content:"16- النحل";}
+.sora-17:before{content:"17- الإسراء";}
+.sora-18:before{content:"18- الكهف";}
+.sora-19:before{content:"19- مريم";}
+.sora-20:before{content:"20- طه";}
+.sora-21:before{content:"21- الأنبياء";}
+.sora-22:before{content:"22- الحج";}
+.sora-23:before{content:"23- المؤمنون";}
+.sora-24:before{content:"24- النور";}
+.sora-25:before{content:"25- الفرقان";}
+.sora-26:before{content:"26- الشعراء";}
+.sora-27:before{content:"27- النمل";}
+.sora-28:before{content:"28- القصص";}
+.sora-29:before{content:"29- العنكبوت";}
+.sora-30:before{content:"30- الروم";}
+.sora-31:before{content:"31- لقمان";}
+.sora-32:before{content:"32- السجدة";}
+.sora-33:before{content:"33- الأحزاب";}
+.sora-34:before{content:"34- سبأ";}
+.sora-35:before{content:"35- فاطر";}
+.sora-36:before{content:"36- يس";}
+.sora-37:before{content:"37- الصافات";}
+.sora-38:before{content:"38- ص";}
+.sora-39:before{content:"39- الزمر";}
+.sora-40:before{content:"40- غافر";}
+.sora-41:before{content:"41- فصلت";}
+.sora-42:before{content:"42- الشورى";}
+.sora-43:before{content:"43- الزخرف";}
+.sora-44:before{content:"44- الدخان";}
+.sora-45:before{content:"45- الجاثية";}
+.sora-46:before{content:"46- الأحقاف";}
+.sora-47:before{content:"47- محمد";}
+.sora-48:before{content:"48- الفتح";}
+.sora-49:before{content:"49- الحجرات";}
+.sora-50:before{content:"50- ق";}
+.sora-51:before{content:"51- الذاريات";}
+.sora-52:before{content:"52- الطور";}
+.sora-53:before{content:"53- النجم";}
+.sora-54:before{content:"54- القمر";}
+.sora-55:before{content:"55- الرحمن";}
+.sora-56:before{content:"56- الواقعة";}
+.sora-57:before{content:"57- الحديد";}
+.sora-58:before{content:"58- المجادلة";}
+.sora-59:before{content:"59- الحشر";}
+.sora-60:before{content:"60- الممتحنة";}
+.sora-61:before{content:"61- الصف";}
+.sora-62:before{content:"62- الجمعة";}
+.sora-63:before{content:"63- المنافقون";}
+.sora-64:before{content:"64- التغابن";}
+.sora-65:before{content:"65- الطلاق";}
+.sora-66:before{content:"66- التحريم";}
+.sora-67:before{content:"67- الملك";}
+.sora-68:before{content:"68- القلم";}
+.sora-69:before{content:"69- الحاقة";}
+.sora-70:before{content:"70- المعارج";}
+.sora-71:before{content:"71- نوح";}
+.sora-72:before{content:"72- الجن";}
+.sora-73:before{content:"73- المزمل";}
+.sora-74:before{content:"74- المدثر";}
+.sora-75:before{content:"75- القيامة";}
+.sora-76:before{content:"76- الإنسان";}
+.sora-77:before{content:"77- المرسلات";}
+.sora-78:before{content:"78- النبأ";}
+.sora-79:before{content:"79- النازعات";}
+.sora-80:before{content:"80- عبس";}
+.sora-81:before{content:"81- التكوير";}
+.sora-82:before{content:"82- الانفطار";}
+.sora-83:before{content:"83- المطففين";}
+.sora-84:before{content:"84- الانشقاق";}
+.sora-85:before{content:"85- البروج";}
+.sora-86:before{content:"86- الطارق";}
+.sora-87:before{content:"87- الأعلى";}
+.sora-88:before{content:"88- الغاشية";}
+.sora-89:before{content:"89- الفجر";}
+.sora-90:before{content:"90- البلد";}
+.sora-91:before{content:"91- الشمس";}
+.sora-92:before{content:"92- الليل";}
+.sora-93:before{content:"93- الضحى";}
+.sora-94:before{content:"94- الشرح";}
+.sora-95:before{content:"95- التين";}
+.sora-96:before{content:"96- العلق";}
+.sora-97:before{content:"97- القدر";}
+.sora-98:before{content:"98- البينة";}
+.sora-99:before{content:"99- الزلزلة";}
+.sora-100:before{content:"100- العاديات";}
+.sora-101:before{content:"101- القارعة";}
+.sora-102:before{content:"102- التكاثر";}
+.sora-103:before{content:"103- العصر";}
+.sora-104:before{content:"104- الهمزة";}
+.sora-105:before{content:"105- الفيل";}
+.sora-106:before{content:"106- قريش";}
+.sora-107:before{content:"107- الماعون";}
+.sora-108:before{content:"108- الكوثر";}
+.sora-109:before{content:"109- الكافرون";}
+.sora-110:before{content:"110- النصر";}
+.sora-111:before{content:"111- المسد";}
+.sora-112:before{content:"112- الإخلاص";}
+.sora-113:before{content:"113- الفلق";}
+.sora-114:before{content:"114- الناس";}
+
+.Template-Cat-All:before{content:"الكل";}
+.Template-Cat-Basic:before{content:"اساسية";}
+.Template-Cat-NewUpcomingOccasions:before{content:"جديد/مناسباتقادمة";}
+.Template-Cat-Holidays:before{content:"أعياد";}
+.Template-Cat-Islamic:before{content:"إسلاميات";}
+.Template-Cat-Social:before{content:"مناسبات إجتماعية";}
+.Template-Cat-General:before{content:"عام";}
+.Template-Cat-Birthdays:before{content:"أعياد ميلاد";}
+.Template-Cat-Weddings:before{content:"أفراح";}
+.Template-Cat-Congratulations:before{content:"تهاني";}
+.Template-Cat-Thank You:before{content:"شكر وتقدير";}
+
+#template_cat_Arrow
+{
+    position:absolute;
+    left:5%;
+}
+#template_cat_Selected
+{
+    margin-right:10px;
+}
+
+.StockWidthli
+{
+    list-style-type: none;
+  margin-left: 0;
+  margin-top: 4;
+  float: left;
+ /* position: relative;*/
+  border-style: solid;
+  border-color: #50b5c6;
+  border-width: 1px;
+  border-radius: 4px;
+  max-height: 285px;
+  /*overflow: auto;*/
+  background-color: #f3f8fc;
+  width: 100%;
+  font-size: 14px;
+}
+
+.FontSizeList
+{
+    list-style-type: none;
+     margin-left: 0;
+     top: 3px;
+     float: left;
+     position: relative;
+     border-style: solid;
+     border-color: #50b5c6;
+     border-width: 1px;
+     border-radius: 4px;
+     background-color: #f3f8fc;
+     width: 97%;
+     font-size: 14px;
+}
+.FontList
+{
+  list-style-type: none;
+  margin-left: 0;
+  margin-top: 4;
+  float: left;
+  position: relative;
+  border-style: solid;
+  border-color: #50b5c6;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: #f3f8fc;
+  width: 100%;
+  font-size: 14px;
+  /*left: 9.5%;
+  top: -15px;*/
+}
+
+#fontsList
+{
+    float:right;
+    margin-left:2px;
+}
+
+#font_list_Arrow
+{
+    left:5%;
+}
+.ImageResize
+{
+    width:50px;
+    height:25px;
+}
+.ItemHeight
+{
+    height:25px;
+}
+
+.Arrow1
+{
+    right:87%;
+    position:absolute;
+}
+
+.Arrow2, .Arrow3
+{
+    right:74%;
+    position:absolute;
+}
+
+
+.AyaShiftText
+{
+    margin-right:4px;
+}
+
+.Sorastyle 
+{
+    list-style-type:none;
+    margin-left:0;
+    margin-top :4;
+    float:right;
+    position:relative;
+    border-style :solid;
+    border-color:#50b5c6;
+    border-width:1px;
+    border-radius:10px;
+    max-height:200px;
+    overflow:auto;
+    background-color:#f3f8fc;
+    width:165px;
+    font-size:14px;
+    text-align:right;
+}
+
+.ItemStyle
+{
+     text-indent:10px;
+    list-style-type:none;
+    text-align:right;
+    height:25px;
+    border-bottom-style:solid;
+    border-bottom-color:#50b5c6;
+    border-bottom-width:1px;
+    font-weight:normal;
+    text-decoration:none;
+    color:Black;
+}
+
+.QuranListFloat
+{
+    float:right;
+}
+
+.FromAya:before{content:"من";}
+.FromAya
+{
+    width: 25px; 
+    padding-right: 5px; 
+    font-size: 14px;
+}
+.ToAya:before{content:"إلي";}
+.AyaNum{content:"آية- 1";}
+
+#UL_quranTools
+{
+    list-style-type: none; 
+    display: inline;
+    width: 100%; 
+    margin-right: 20px; 
+    height: 50px; 
+    padding-top: 10px;
+}
+
+.addAya
+{
+    width: 77px; 
+    right: 7.5px; 
+    text-align: center;
+}
+
+.searchQuran
+{
+    width: 77px; 
+    right: 15px; 
+    left: 5px; 
+    text-align: center;
+}
+
+.BorderList
+{
+    list-style-type: none; 
+    display: inline; 
+    float: right;
+    width: 100%; 
+    margin-right: 27%; 
+    height: 20px; 
+    padding-top: 10px;
+}
+
+.BorderThickness
+{
+    width: 17.5%; 
+    margin-left: 2%;
+}
+
+.BorderFit
+{
+    width: 38%;
+}
+
+#border_thickness_Arrow, #border_color_Arrow
+{
+    right: 77.5%;
+    position: absolute;
+}
+#border_fit_Arrow
+{
+    right: 88%; 
+    position: absolute;
+}
+
+.Border_Shift_Text, #border_thickness_Selected, #border_color_Selected, #border_fit_Selected, #bkgimage_fit_Selected, #bkgimage_halign_Selected, #bkgimage_valign_Selected
+{
+    margin-right: 10px;
+}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    width:50px;
+    height:50px;
+    overflow:hidden;
+}
+
+.upload2 {
+    position: relative;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    width:110px;
+    height:25px;
+    top:-25px;
+    overflow:hidden;
+}
+
+#li_imageFitOption
+{
+    width: 70%;
+    margin-right: 2%;
+}
+
+#bkgimage_fit_Arrow
+{
+    right: 85%; 
+    position: absolute;
+}
+
+#UL_ImagehAlignTools, #UL_ImagevAlignTools
+{
+    list-style-type: none; 
+    display: inline; 
+    float: right;
+    width: 100%; 
+    margin-right: 10%; 
+    height: 20px; 
+    padding-top: 10px;
+}
+
+#li_ImagehAlignOption, #li_ImagevAlignOption
+{
+    width: 70%; 
+    margin-left: 2%;
+    z-index: 2;
+}
+
+#bkgimage_halign_Arrow, #bkgimage_valign_Arrow
+{
+    right: 70%;
+    position: absolute;
+}
+
+.Background
+{
+    background-color:rgb(243, 248, 252);
+}
+
+.Settings_Pos
+{
+    left: 1%; 
+    top: 80px;     
+}
+
+.DesignPos
+{
+    top:80px;
+    left:1280px;
+}
+.save-design:before{
+	content:"حفظ";
+}
+.saveas-design:before{
+	content:"حفظ بإسم";
+}
+.mydesign:before{
+	content:"تصاميمي";
+}
+.templates:before{
+	content:"تصاميم جاهزة";
+}
+.dialog-title-saveas:before{
+	content: "حفظ التصميم بإسم";
+}
+.saveas-design-name:before{
+	content: "إسم التصميم";
+}
+.button-save:before {
+	content: "حفظ";
+}
+.button-cancel:before {
+	content: "إلغاء";
+}
+.edit-paste-tb:before{
+	content:"لصق كتلة النص";
+}
